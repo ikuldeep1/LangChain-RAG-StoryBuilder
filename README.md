@@ -38,6 +38,6 @@ Welcome to the Story Sequel Generator! This application leverages the power of L
 
 ## Connect Me
 
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/kuldeep-rathoree/)
+- **LinkedIn**: [Kuldeep Rathore](https://www.linkedin.com/in/kuldeep-rathoree/)
 
 Bring your stories to life with the Story Sequel Generator! 🚀
